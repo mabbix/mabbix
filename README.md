@@ -11,7 +11,6 @@
          
    System.out.printf("she/her = mabbix");
    
-        int code =  Java, Ruby, Python, HTML, CSS;
-        int tools = React, Redux, Node, Storybook;
+        int code =  Java, HTML, CSS;     
         
         }     
